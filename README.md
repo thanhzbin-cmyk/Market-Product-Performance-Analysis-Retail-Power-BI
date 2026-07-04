@@ -24,7 +24,7 @@ A global retail company operates across multiple international markets and produ
 - 3 Business Tables: Orders, People, Returns
 - Key Metrics: Revenue, Profit, Profit Margin, Orders, AOV, Return Rate, YoY Growth
 
-## 2. 🎯Project Objective
+## 2. Project Objective
 
 - Analyze overall business performance using sales and profitability metrics.
 - Compare market performance to identify expansion opportunities.
