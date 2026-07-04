@@ -86,7 +86,7 @@ Key Insights
 - Standard Class is the most frequently used shipping method.
 - Return Rate remains relatively stable and can be monitored over time for operational performance.
 
- **Page 2 – Market Analysis** <img width="1778" height="1000" alt="image" src="https://github.com/user-attachments/assets/5000796b-eb23-4c1b-b4b7-dbbfee665303" />
+ **Page 2 – Market Analysis** <img width="1730" height="978" alt="image" src="https://github.com/user-attachments/assets/bb205c59-12d7-4b23-9b5f-ad72b7ca8e43" />
 
 The Market page compares business performance across geographic markets to identify growth opportunities, profitability, customer distribution, and regional risks.
 
