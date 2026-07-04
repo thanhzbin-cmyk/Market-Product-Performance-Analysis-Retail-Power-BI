@@ -54,6 +54,26 @@ The project is built on the Global Superstore dataset, consisting of 1 fact tabl
 - People (Dimension Table): Contains sales representative information by region.
 - Returns (Dimension Table): Records returned orders for return analysis.
 
+# Design Thinking Process #
+## Step 1. Empathize##
+- 5W1H
+<img width="1486" height="728" alt="image" src="https://github.com/user-attachments/assets/3656a758-8d2e-4634-bf64-f2fd5b788019" />
+- Empathy Map
+<img width="1484" height="844" alt="image" src="https://github.com/user-attachments/assets/d91b96e5-9096-4cb6-8657-97ddce6a2e27" />
+- Stakeholder Journey Map
+<img width="1764" height="572" alt="image" src="https://github.com/user-attachments/assets/7426d94b-c5f7-4c46-bd81-51e29f96992a" />
+
+## Step 2: Define Point of View##
+- North Star Metrics
+<img width="1492" height="626" alt="image" src="https://github.com/user-attachments/assets/ca4bcf8e-c48b-4896-82ba-5cdbac06afeb" />
+- Define Point of View
+<img width="1468" height="624" alt="image" src="https://github.com/user-attachments/assets/a43682e2-d14a-4765-bda0-4624a9248dee" />
+- Business Metrics Framework
+<img width="1480" height="600" alt="image" src="https://github.com/user-attachments/assets/162b0760-f61d-4e57-8add-afe4121bf4ed" />
+
+## Step 3: Ideate ##
+
+
 # Project Workflow #
 
 ## 1. Data Collection & Data Cleaning ##
