@@ -52,14 +52,12 @@ The project is built on the Global Superstore dataset, consisting of 1 fact tabl
 - Business Metrics Framework <img width="1480" height="600" alt="image" src="https://github.com/user-attachments/assets/162b0760-f61d-4e57-8add-afe4121bf4ed" />
 
 ## Step 3: Ideate ##
-- Brainstorming <img width="1494" height="696" alt="image" src="https://github.com/user-attachments/assets/054cb50b-3758-41d4-99f0-08a123f2be2e" />
-- Structure Idea <img width="1486" height="584" alt="image" src="https://github.com/user-attachments/assets/4453d430-8cdf-41af-8ad5-01f7d5245f28" />
+<img width="1494" height="696" alt="image" src="https://github.com/user-attachments/assets/054cb50b-3758-41d4-99f0-08a123f2be2e" />
 
 ## Stage 4: Prototype ##
 <img width="1490" height="780" alt="image" src="https://github.com/user-attachments/assets/72281451-c103-40ef-b4d9-6d7c8935d563" />
 <img width="1474" height="832" alt="image" src="https://github.com/user-attachments/assets/1e5d1889-c348-4d1b-86ea-e43a64f46cb5" />
 <img width="1484" height="768" alt="image" src="https://github.com/user-attachments/assets/29c1245a-8230-418a-8cec-b8a9353ac36d" />
-
 Note: The prototype was refined before implementation by prioritizing key KPIs, simplifying visual layouts, grouping related analyses into four pages (Overview, Market, Product, and Recommendation), and ensuring a clear navigation flow from business overview to actionable insights.
 
 # Project Workflow #
